@@ -1,8 +1,10 @@
 ## Hi there 👋
 I'm Lia (she/her), a first year Engineering student. 
-
+ <br>
  ❕ I'm interested in neural networks, computer vision, and applications of programming in robotics.
+ <br>
 🔭 I’m currently working on my personal website.
+ <br>
 🌱 I’m currently learning about the ROS tf2 system.
 
 <!--
