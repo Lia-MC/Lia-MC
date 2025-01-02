@@ -1,4 +1,9 @@
 ## Hi there 👋
+I'm Lia (she/her), a first year Engineering student. 
+
+ ❕ I'm interested in neural networks, computer vision, and applications of programming in robotics.
+🔭 I’m currently working on my personal website.
+🌱 I’m currently learning about the ROS tf2 system.
 
 <!--
 **Lia-MC/Lia-MC** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
