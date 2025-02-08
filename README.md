@@ -6,6 +6,8 @@ I'm Lia (she/her), a first year Engineering student.
 🔭 I’m currently working on my personal website.
  <br>
 🌱 I’m currently learning about the ROS tf2 system.
+ <br>
+✨ I want to create innovations that contribute to sustainability, the medical field, or care and wellbeing.
 
 <!--
 **Lia-MC/Lia-MC** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
