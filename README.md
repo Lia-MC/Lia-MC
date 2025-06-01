@@ -1,5 +1,5 @@
 ## Hi there 👋
-I'm Lia (she/her), a first year Engineering student. 
+I'm Lia (she/her), a second year Engineering student. 
  <br>
  ❕ I'm interested in neural networks, computer vision, and applications of programming in robotics.
  <br>
