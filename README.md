@@ -9,6 +9,13 @@ I'm Lia (she/her), a second year Engineering student.
  <br>
 ✨ I want to create innovations that contribute to sustainability, the medical field, or care and wellbeing.
 
+<div style="text-align: center;">
+    <img 
+        src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lia-MC&theme=aura&hide_border=true&include_all_commits=true&count_private=true&layout=compact" 
+        alt="Most Used Languages by Lia-MC" 
+    />
+</div>
+
 <!--
 **Lia-MC/Lia-MC** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
