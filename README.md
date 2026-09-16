@@ -4,12 +4,12 @@ I'm Lia (she/her), a third year Engineering student.
  ❕ I'm interested in applications of robotics in biomedical, environmental, and human-factors adjacent fields.
  <br>
 🔭 I’m currently working on developing a user interface for a parallel multi-bioreactor system.
+ <br>
+✨ I want to create innovations that contribute to the medical field, sustainability, or care and wellbeing.
+
 <!--
  <br>
 🌱 I’m currently learning about , filters, and deep learning systems.
--->
- <br>
-✨ I want to create innovations that contribute to the medical field, sustainability, or care and wellbeing.
 
 <div style="text-align: center;">
     <img 
@@ -18,7 +18,6 @@ I'm Lia (she/her), a third year Engineering student.
     />
 </div>
 
-<!--
 **Lia-MC/Lia-MC** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
