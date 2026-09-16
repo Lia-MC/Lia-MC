@@ -1,13 +1,15 @@
 ## Hi there 👋
-I'm Lia (she/her), a second year Engineering student. 
+I'm Lia (she/her), a third year Engineering student. 
  <br>
- ❕ I'm interested in neural networks, computer vision, and applications of programming in robotics.
+ ❕ I'm interested in applications of robotics in biomedical, environmental, and human-factors adjacent fields.
  <br>
-🔭 I’m currently working on my personal website.
+🔭 I’m currently working on developing a user interface for a parallel multi-bioreactor system.
+<!--
  <br>
-🌱 I’m currently learning about the ROS tf2 system.
+🌱 I’m currently learning about , filters, and deep learning systems.
+-->
  <br>
-✨ I want to create innovations that contribute to sustainability, the medical field, or care and wellbeing.
+✨ I want to create innovations that contribute to the medical field, sustainability, or care and wellbeing.
 
 <div style="text-align: center;">
     <img 
